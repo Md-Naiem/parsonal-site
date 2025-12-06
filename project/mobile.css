@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+/* Extra small devices (phones, 600px and down) */
+
+    body{
+        background-color: green;
+    }
